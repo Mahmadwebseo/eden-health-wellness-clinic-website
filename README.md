@@ -118,9 +118,8 @@ Conversion support was built into key sections:
 
 ## Screenshots
 
-> Upload your images to the repository and paste the screenshot links below.
-
-<!-- I will add the exact image linking lines here after upload -->
+![Homepage / Hero Section](Eden%20Health%201.png)
+![Homepage]](Eden%20Health%202.png)
 
 ---
 
