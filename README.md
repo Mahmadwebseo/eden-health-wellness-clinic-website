@@ -119,7 +119,7 @@ Conversion support was built into key sections:
 ## Screenshots
 
 ![Homepage / Hero Section](Eden%20Health%201.png)
-![Homepage]](Eden%20Health%202.png)
+![Homepage](Eden%20Health%202.png)
 
 ---
 
